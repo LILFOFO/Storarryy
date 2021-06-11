@@ -10,4 +10,4 @@
 - ⚡ Fun fact: I cry in the bath.
 
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Storarryy&show_icons=true&theme=radical">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Storarryy&show_icons=true&theme=">

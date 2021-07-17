@@ -13,6 +13,6 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Storarryy&show_icons=true&theme=">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Storarryy&hide=batchfile" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Storarryy&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Storarryy&hide=batchfile&theme=radical" />
 </p>
